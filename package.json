@@ -1,0 +1,12 @@
+{
+  "name": "postman-newman",
+  "version": "1.0.0",
+  "description": "To Try Postman with Jenkins using newman",
+
+  "scripts": {
+    "api-test1": "newman run Try_Jenkins.postman_collection.son"
+  },
+  "author": "Prutha",  "dependencies": {
+    "newman": "^5.2.0"
+  }
+}

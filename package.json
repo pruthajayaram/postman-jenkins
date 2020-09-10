@@ -4,7 +4,7 @@
   "description": "To Try Postman with Jenkins using newman",
 
   "scripts": {
-    "api-test1": "newman run Try_Jenkins_postman_collection.json"
+    "api-test1": "newman run Try_Jenkins.postman_collection.json"
   },
   "author": "Prutha",  "dependencies": {
     "newman": "^5.2.0"
